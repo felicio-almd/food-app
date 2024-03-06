@@ -30,13 +30,14 @@
 
 Um projeto de aplicativo móvel desenvolvido usando React Native, uma estrutura popular para criar aplicativos nativos para iOS e Android com TypeScript e React. Nele os usuários podem selecionar ingredientes, ter receitas para serem feitas com esses ingredientes e uma tela de receitas. Usando supabase como banco de dados.
 
-![Image 1](https://github.com/felicio-almd/food-app/assets/115444550/931ffaea-1c01-416e-a4e9-8a4e6ffbfd3d){: width="300px"}
+<img src="https://github.com/felicio-almd/food-app/assets/115444550/931ffaea-1c01-416e-a4e9-8a4e6ffbfd3d" width="300">
 
-![Image 2](https://github.com/felicio-almd/food-app/assets/115444550/e52169bb-4144-49c9-849e-d6d0d7836a73){: width="300px"}
+<img src="https://github.com/felicio-almd/food-app/assets/115444550/e52169bb-4144-49c9-849e-d6d0d7836a73" width="300">
 
-![Image 3](https://github.com/felicio-almd/food-app/assets/115444550/be412b8c-096d-47cc-8977-7b96fdfdbeab){: width="300px"}
+<img src="https://github.com/felicio-almd/food-app/assets/115444550/be412b8c-096d-47cc-8977-7b96fdfdbeab" width="300">
 
-![Image 4](https://github.com/felicio-almd/food-app/assets/115444550/e866956f-0ba3-4e61-954b-0df8c1bb02d5){: width="300px"}
+<img src="https://github.com/felicio-almd/food-app/assets/115444550/e866956f-0ba3-4e61-954b-0df8c1bb02d5" width="300">
+
 
 
 
