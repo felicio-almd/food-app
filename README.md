@@ -30,6 +30,15 @@
 
 Um projeto de aplicativo móvel desenvolvido usando React Native, uma estrutura popular para criar aplicativos nativos para iOS e Android com TypeScript e React. Nele os usuarios podem selecionar ingredientes, ter receitas para serem feitas com esses ingredientes e uma tela de receitas. Usando supabase como banco de dados.
 
+![Image 2024-03-06 at 16 30 11](https://github.com/felicio-almd/food-app/assets/115444550/931ffaea-1c01-416e-a4e9-8a4e6ffbfd3d)
+
+![Image 2024-03-06 at 16 30 11 (1)](https://github.com/felicio-almd/food-app/assets/115444550/e52169bb-4144-49c9-849e-d6d0d7836a73)
+
+![Image 2024-03-06 at 16 30 11 (2)](https://github.com/felicio-almd/food-app/assets/115444550/be412b8c-096d-47cc-8977-7b96fdfdbeab)
+
+![Image 2024-03-06 at 16 30 11 (3)](https://github.com/felicio-almd/food-app/assets/115444550/e866956f-0ba3-4e61-954b-0df8c1bb02d5)
+
+
 ## :sparkles: Features
 
 :heavy_check_mark: Feature 1: A página permite aos usuários selecionar ingredientes de uma lista./
