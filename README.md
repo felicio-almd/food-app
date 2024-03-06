@@ -28,7 +28,7 @@
 
 ## :dart: About
 
-Um projeto de aplicativo móvel desenvolvido usando React Native, uma estrutura popular para criar aplicativos nativos para iOS e Android com TypeScript e React. Nele os usuarios podem selecionar ingredientes, ter receitas para serem feitas com esses ingredientes e uma tela de receitas.
+Um projeto de aplicativo móvel desenvolvido usando React Native, uma estrutura popular para criar aplicativos nativos para iOS e Android com TypeScript e React. Nele os usuarios podem selecionar ingredientes, ter receitas para serem feitas com esses ingredientes e uma tela de receitas. Usando supabase como banco de dados.
 
 ## :sparkles: Features
 
